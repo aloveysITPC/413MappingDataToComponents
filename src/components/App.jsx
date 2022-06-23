@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
 
+// function to be passed to the map function in the app function
 function createCard(contact) {
   return (
     <Card
