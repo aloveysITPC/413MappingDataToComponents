@@ -1,3 +1,5 @@
+// array of 3 items
+
 const contacts = [
   {
     id: 1,
